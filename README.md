@@ -1,4 +1,4 @@
-# Video-Editing
+# Video-and-Image-Editing
 
 Here is a video showcasing my results screen for my Youtube channel. Programs used were Sony Vegas Pro 15, OBS, and Paint.net.
 
